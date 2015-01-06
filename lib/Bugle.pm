@@ -1,6 +1,6 @@
 use strict; use warnings;
 package Bugle;
 
-our $VERSION = '0.01';
+our $VERSION = '0.002';
 
 1;
