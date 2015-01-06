@@ -1,5 +1,5 @@
 lib/Bugle.pm
 lib/Bugle.pod
-lib/Bugle/sub.pm.PL
+lib/Bugle/sub.xs.PL
 Makefile.PL
 MANIFEST			This list of files
